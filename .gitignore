@@ -5,4 +5,5 @@ ch_clip_web\node_modules
 *.json
 *.jsonl
 *.tsv
+*.gitmodules
 __pycache__
