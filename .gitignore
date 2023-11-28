@@ -1,0 +1,8 @@
+*.pt
+*.out
+ch_clip_web\node_modules
+*.mdb
+*.json
+*.jsonl
+*.tsv
+__pycache__
